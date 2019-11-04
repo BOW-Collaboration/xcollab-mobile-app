@@ -1,0 +1,3 @@
+= Android (Flutter)
+
+`app.dart` is the top-level, entry file. Import it to run the android app.
